@@ -7,6 +7,7 @@ Scripts are intended to be a template of randomized/blocked sonication sequences
 Note: These scripts require modification to suit the specific transducer, amplifier, and experimental protocol of the end user.
 
 For citation: eLife 2020;9:e54497 DOI: 10.7554/eLife.54497
+
 For any code-related questions please email fomenkoa@myumanitoba.ca
 
 Last update: Nov 27, 2020
